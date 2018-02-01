@@ -1,4 +1,4 @@
 [submodule "src"]
 	path = src
-	url = https://github.com/wekan/wekan.git
+	url = https://github.com/amatthi/wekan.git
 	branch = devel
